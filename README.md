@@ -1,5 +1,7 @@
 # Field Notes — Image Gallery
 
+<img width="1900" height="907" alt="image" src="https://github.com/user-attachments/assets/5a336dc2-ddbe-44e5-8ec1-ac0e0e1eca38" />
+
 A responsive image gallery with hover zoom and sliding captions, built with plain HTML, CSS, and JavaScript. No frameworks or build step required.
 
 ## Files
